@@ -26,3 +26,7 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+more details see below:  
+
+车道线检测-从单车道到多车道的车道线检测（二）  
+https://blog.csdn.net/qq_42258099/article/details/94735448
