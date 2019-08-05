@@ -1,7 +1,7 @@
 
 
-##Advanced Lane Finding Project##
-	In this project, your goal is to write a software pipeline to identify the lane boundaries in a video.  
+##Advanced Lane Finding Project##  
+In this project, your goal is to write a software pipeline to identify the lane boundaries in a video.  
 
 ** the package needed
 os
