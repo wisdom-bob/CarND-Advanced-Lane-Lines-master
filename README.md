@@ -4,17 +4,17 @@
 In this project, your goal is to write a software pipeline to identify the lane boundaries in a video.  
 
 ** the package needed
-os
-cv2
-glob
-pickle
-random
-numpy
-PIL
-matplotlib
-moviepy.editor
-Ipython.display
-
+os  
+cv2  
+glob  
+pickle  
+random  
+numpy  
+PIL  
+matplotlib  
+moviepy.editor  
+Ipython.display  
+  
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
